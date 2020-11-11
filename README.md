@@ -1,6 +1,4 @@
-# Data115Project
-
-Average NBA Team Salaries and Players
+# Average NBA Team Salaries and Players
 
 This project is about seeing the trend in the salaries of players and average team salaries and how over the years it has increased. 
 
