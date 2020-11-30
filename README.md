@@ -1,5 +1,10 @@
-# Average NBA Team Salaries and Players
-This project is about seeing the trend in the salaries of players and average team salaries and how over the years it has increased. 
-What motivated me to do this project is how players in the NBA these days are significantly paid higher than players in the 80s for an example. 
-All the script was written in Python a free and easy to install computer language. 
-![NBA](https://raw.githubusercontent.com/ethanadamian/Data115Project/master/data%20115.PNG?token=ARFUGQ3NPTJQARRV6AHDCNK7VNJPG)
+# NBA Player Data Analysis
+
+# Motivation
+I have downloaded the ASA All NBA data set, that consists of all the players in depth statistics. I will be looking at for example the 3 point percentage between players over 6'5, and under 6'5, and how many rebounds are gathered by players under 6'5 and over 6'5. There may be some fascinating results that may or may not shock you. I've always have had a passion for sports analytics. This was a great opportuninty to explore this avenue of diving deep into the data and seeing what I could find and compare. 
+# Data Source
+I obtained the data from advancedsportsanalytics.com whom provides quantitative DFS strategy and tools for fantasy football, basketball, baseball, and golf contests. The aspect of it being used for fantasy sport contests allowed for me to gather more in depth data than other data sources. 
+# Processing Steps
+Luckily the data was already processed and cleaned nicely. It was easy to use and find what I wanted to showcase on python. 
+# Visualization
+Once I had processed the data, 
