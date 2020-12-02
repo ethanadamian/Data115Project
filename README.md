@@ -7,6 +7,11 @@ I obtained the data from https://advancedsportsanalytics.com whom provides quant
 # Processing Steps
 Luckily the data was already processed and cleaned nicely. It was easy to use and find what I wanted to showcase on python. 
 # Visualization
-Once I had processed the data, ![image](https://user-images.githubusercontent.com/72041283/100938994-6fd13b80-34aa-11eb-8bf7-4d2c46b126cc.png)
+Once I had processed the data, I created a scatterplot of the 3-point percentages and salaries for 2018. 
+
+
+
+
+![image](https://user-images.githubusercontent.com/72041283/100938994-6fd13b80-34aa-11eb-8bf7-4d2c46b126cc.png)
 
 
