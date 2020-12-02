@@ -1,4 +1,4 @@
-# NBA Player Data Analysis
+# NBA 3-Point Percentage and Salary Correlation Analysis
 
 # Motivation
 I downloaded the ASA All NBA data set, that consists of all the players in depth statistics. I will be looking at for example the 3 point percentage of players and if that has any correlation with how much they get paid, compared to others who don't shoot as well. There may be some fascinating results that may or may not shock you. I've always have had a passion for sports analytics. This was a great opportuninty to explore this avenue of diving deep into the data and seeing what I could find and compare. 
