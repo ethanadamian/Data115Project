@@ -28,6 +28,11 @@ I created a scatterplot of the 3-point percentages and salaries for 2018. From t
 
 
 # Descriptions of Code and Materials
-There is one jupyter notebook that contains all the data and resources called 3ptandSalary.ipynb
+There is one jupyter notebook that contains all the data and resources called 3pt and Salary.ipynb
 
+# References
+
+[1] Davis, C. (2019, June 11). NBA Salaries - dataset by datadavis. Retrieved December 02, 2020, from https://data.world/datadavis/nba-salaries
+
+[2] Gibson, S. (n.d.). NBA Raw Data Download. Retrieved December 02, 2020, from https://www.advancedsportsanalytics.com/nba-raw-data
 
