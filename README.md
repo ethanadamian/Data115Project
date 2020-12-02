@@ -27,3 +27,7 @@ I created a scatterplot of the 3-point percentages and salaries for 2018. From t
 ![image](https://user-images.githubusercontent.com/72041283/100938994-6fd13b80-34aa-11eb-8bf7-4d2c46b126cc.png)
 
 
+# Descriptions of Code and Materials
+There is one jupyter notebook that contains all the data and resources called 3ptandSalary.ipynb
+
+
