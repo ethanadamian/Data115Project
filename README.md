@@ -7,7 +7,18 @@ I obtained the data from https://advancedsportsanalytics.com whom provides quant
 # Processing Steps
 Luckily the data was already processed and cleaned nicely. It was easy to use and find what I wanted to showcase on python. 
 # Visualization
-Once I had processed the data, I created a scatterplot of the 3-point percentages and salaries for 2018. From the scatterplot you can see that players shooting around 40% receive higher pay than those who don't. However; in the scatterplot you'll see a big blob of dots near the 35-40% range but a lot of those players are either not in the league anymore or shot very few threes as they are on mininum contracts for the most part. 
+Once I had processed the data, I started the process of gathering the data and making averages and comparing salaries etc. In this table created from python there is 10 players in 2018 that made over 20 million dollars that I randomly choose. However; I excluded Andre Drummond because he only shot 11 threes for the 2017-2018 season. I then took their 3-point averages and it resulted in .43+.45+.38+.34+.40+.36+.42+.38+.36= 3.414/9 = .38 = 38% This is a very good 3-point percentage for NBA standards. 
+
+
+
+
+
+
+
+
+
+# Analysis
+I created a scatterplot of the 3-point percentages and salaries for 2018. From the scatterplot you can see that players shooting around 40% receive higher pay than those who don't. However; in the scatterplot you'll see a big blob of dots near the 35-40% range but a lot of those players are either not in the league anymore or shot very few threes as they are on mininum contracts for the most part. 
 
 
 
