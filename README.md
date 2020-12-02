@@ -7,6 +7,6 @@ I obtained the data from https://advancedsportsanalytics.com whom provides quant
 # Processing Steps
 Luckily the data was already processed and cleaned nicely. It was easy to use and find what I wanted to showcase on python. 
 # Visualization
-Once I had processed the data, https://github.com/ethanadamian/Data115Project/issues/1#issue-755656266
+Once I had processed the data, ![image](https://user-images.githubusercontent.com/72041283/100938994-6fd13b80-34aa-11eb-8bf7-4d2c46b126cc.png)
 
 
