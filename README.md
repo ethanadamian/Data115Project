@@ -8,3 +8,5 @@ I obtained the data from https://advancedsportsanalytics.com whom provides quant
 Luckily the data was already processed and cleaned nicely. It was easy to use and find what I wanted to showcase on python. 
 # Visualization
 Once I had processed the data, 
+
+
